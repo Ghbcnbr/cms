@@ -10,3 +10,4 @@ ubuntu-xenial-16.04-cloudimg-console.log
 *.phpproj
 /CMSZend.sln
 *.sln
+/PHPWebProject1/.vs/PHPWebProject1/v15
