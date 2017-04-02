@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "CMSZend", "CMSZend\CMSZend.phpproj", "{628EA1A8-A495-4060-A5EB-1B0161D4F296}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "cms", "cms\cms.phpproj", "{3A76A659-9C5C-4951-A0F1-7CD8978C3EF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{628EA1A8-A495-4060-A5EB-1B0161D4F296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{628EA1A8-A495-4060-A5EB-1B0161D4F296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A76A659-9C5C-4951-A0F1-7CD8978C3EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A76A659-9C5C-4951-A0F1-7CD8978C3EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
