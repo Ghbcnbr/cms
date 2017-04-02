@@ -1,7 +1,7 @@
 <?php
 
 
-echo "2gg";
+echo "2gg2";
 class good { 
     private $good_id;
     private $good_cid;
